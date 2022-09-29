@@ -1,2 +1,2 @@
-# clone_first_page_globo
+# Clone da Primeira página da Globo
 Projeto de Desenvolvimento Front end.
