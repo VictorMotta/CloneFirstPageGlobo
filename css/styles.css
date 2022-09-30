@@ -308,12 +308,16 @@ main {
   }
 }
 
-@media (max-width: 600px) {
+@media (max-width: 820px) {
   .img_logo {
     width: 208px;
     height: 57px;
     background: url(../img/logo_mobile.png) center center/208px no-repeat;
     font-size: 0;
+  }
+
+  .container_menu {
+    width: 94%;
   }
 
   .container_menu a:nth-child(1) {
